@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Crypt Easy</string>
+    <string name="francais">French</string>
+    <string name="anglais">English</string>
+    <string name="text_encryption">Text Encryption</string>
+    <string name="enter_encryption_key">Enter Encryption Key</string>
+    <string name="enter_the_text_to_encrypt">Enter the text to encrypt</string>
+    <string name="text_encrypt">Text Encrypt</string>
+    <string name="the_encrypted_text">The Encrypted Text</string>
+    <string name="features">Features :</string>
+    <string name="encryption">Encryption</string>
+    <string name="decryption">Decryption</string>
+    <string name="home">Home</string>
+    <string name="language">Language</string>
+    <string name="team">Team</string>
+    <string name="crypt_easy" translatable="false">Crypt Easy</string>
+    <string name="find_your_text" >Find Your Text</string>
+    <string name="use_now" >Use Now</string>
+    <string name="views" >°°°°°</string>
+    <string name="sharing" >Sharing</string>
+    <string name="lines" translatable="false">----------</string>
+    <string name="text_encryption_and_decryption">Text Encryption and Decryption</string>
+    <string name="encryption_and_decryption">Encryption and Decryption</string>
+    <string name="text_decryption">Text Decryption</string>
+    <string name="enter_decryption_key">Enter Decryption Key</string>
+    <string name="enter_the_text_to_decrypt">Enter the text to decrypt</string>
+    <string name="decrypted_text">Decrypted Text</string>
+    <string name="the_decrypted_text">The Decrypted text</string>
+    <string name="encryption_app">Encryption App</string>
+    <string name="get_started">Get Started</string>
+    <string name="my_team">My Team</string>
+    <string name="full_stack_developer">Full Stack Developer</string>
+    <string name="analyste_dev">Analyste Dev.</string>
+    <string name="cmp_group">CMP Group</string>
+    <string name="version_1_0">Version : 1.0</string>
+    <string name="urhc">URHC</string>
+    <string name="android_course">Android Course</string>
+    <string name="teacher_ing_clavel">Teacher : ING Clavel</string>
+</resources>

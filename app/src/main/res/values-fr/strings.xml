@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crypt Easy</string>
+    <string name="francais">Francais</string>
+    <string name="anglais">Anglais</string>
+    <string name="text_encryption">Cryptage de Texte</string>
+    <string name="enter_encryption_key">Entrez la clé de cryptage</string>
+    <string name="enter_the_text_to_encrypt">Entrez le texte a crypté</string>
+    <string name="text_encrypt">Texte Crypté</string>
+    <string name="the_encrypted_text">Le Texte Crypté</string>
+    <string name="features">Fonctionnalités :</string>
+    <string name="encryption">Cryptage</string>
+    <string name="decryption">Decryptage</string>
+    <string name="home">Accueil</string>
+    <string name="language">Langue</string>
+    <string name="team">Equipe</string>
+    <string name="find_your_text" >Trouvez votre texte</string>
+    <string name="use_now" >Utiliser maintenant</string>
+    <string name="views" >°°°°°</string>
+    <string name="sharing" >Partage</string>
+    <string name="lines" translatable="false">----------</string>
+    <string name="text_encryption_and_decryption">Chiffrement et déchiffrement de texte</string>
+    <string name="encryption_and_decryption">Chiffrement et déchiffrement</string>
+    <string name="text_decryption">Decryptage de Texte</string>
+    <string name="enter_decryption_key">Entrez la clé de decryptage</string>
+    <string name="enter_the_text_to_decrypt">Entrez le texte a decrypté</string>
+    <string name="decrypted_text">Texte Decrypté</string>
+    <string name="the_decrypted_text">Le Texte Decrypté</string>
+    <string name="encryption_app">Application de chiffrement</string>
+    <string name="get_started">Commencer</string>
+    <string name="my_team">Mon Equipe</string>
+    <string name="full_stack_developer">Full Stack Developer</string>
+    <string name="analyste_dev">Analyste Dev.</string>
+    <string name="cmp_group">Groupe CMP</string>
+    <string name="version_1_0">Version : 1.0</string>
+    <string name="urhc">URHC</string>
+    <string name="android_course">Cours Android</string>
+    <string name="teacher_ing_clavel">Prof : ING Clavel</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/drawable-hdpi/ic_add.xml" value="0.18504273504273505" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/drawable-xhdpi/orange_button1.xml" value="0.1462837837837838" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/drawable/btn_background.xml" value="0.1462837837837838" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/drawable/encryption_bacground.xml" value="0.1462837837837838" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/drawable/header_background.xml" value="0.1462837837837838" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/drawable/light_banner.xml" value="0.1375" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/drawable/logo_background.xml" value="0.1" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/drawable/opt_bacground.xml" value="0.1462837837837838" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/drawable/orange_button.xml" value="0.1462837837837838" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/drawable/search_bacground.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/drawable/team_background.xml" value="0.1462837837837838" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/layout/activity_crypt.xml" value="0.1" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/layout/activity_decryption.xml" value="0.1" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/layout/activity_intro.xml" value="0.1358108108108108" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/layout/activity_main2.xml" value="0.209375" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/layout/activity_team.xml" value="0.13444816053511705" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/layout/opt_bacground.xml" value="0.1358108108108108" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/layout/viewholder_option.xml" value="0.25" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/menu/menu_contextuelle.xml" value="0.1358108108108108" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/menu/menu_language.xml" value="0.1358108108108108" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/menu/menu_principal.xml" value="0.1" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1462837837837838" />
+        <entry key="..\:/Users/joehe/Desktop/Android_Projects/Crypt_App/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1462837837837838" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
